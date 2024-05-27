@@ -31,4 +31,4 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 Contributions are welcome! If you have any ideas, suggestions, or bug reports, please create an issue or submit a pull request.
 
 ## Acknowledgments
-This Next.js Todo application was crafted by drawing inspiration from a variety of online resources and tutorials. Its creation has been driven by a thirst for learning, a desire to grasp new concepts and a determination to engage in research and development.
+This Next.js application was crafted by drawing inspiration from a variety of online resources and tutorials. Its creation has been driven by a thirst for learning, a desire to grasp new concepts and a determination to engage in research and development.
