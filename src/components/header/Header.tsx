@@ -77,7 +77,7 @@ export default function Header({
         </div>
         <div className="flex flex-col items-center">
           <div className="uppercase font-bold text-xs text-foregroundSecondaryColor">
-            Precip
+            Precipitation
           </div>
           <div>
             <span data-current-precip>{precip}</span>
