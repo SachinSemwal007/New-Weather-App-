@@ -45,7 +45,7 @@ export default function TableRow({
       </td>
       <td>
         <div className="flex flex-col items-center">
-          <div className="uppercase font-bold text-xs text-foregroundSecondaryColor">FL TEMP</div>
+          <div className="uppercase font-bold text-xs text-foregroundSecondaryColor">FL(Feels Like) TEMP</div>
           <div>{feelsLike}&deg;</div>
         </div>
       </td>
